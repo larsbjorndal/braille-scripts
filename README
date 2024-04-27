@@ -1,2 +1,9 @@
+# Braille scripts
+
 This repo contains scripts used for various tasks in my braille
 related projects.
+
+## brl2brl.cgi
+
+The script is used to handle the form data for the braille to braille conversion at [lamasti.net/brl2brl/](https://lamasti.net/brl2brl/).
+
